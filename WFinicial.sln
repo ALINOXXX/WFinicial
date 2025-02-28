@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CEx1", "ConsoleRevisaoAula\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEX2", "ECEX2\CEX2.csproj", "{EF558B91-E2BB-416A-982E-9EF965C7A0D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEX3", "CEX3\CEX3.csproj", "{921E7883-40CC-4F36-B87F-9C454DE2982D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EF558B91-E2BB-416A-982E-9EF965C7A0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF558B91-E2BB-416A-982E-9EF965C7A0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF558B91-E2BB-416A-982E-9EF965C7A0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921E7883-40CC-4F36-B87F-9C454DE2982D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921E7883-40CC-4F36-B87F-9C454DE2982D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921E7883-40CC-4F36-B87F-9C454DE2982D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921E7883-40CC-4F36-B87F-9C454DE2982D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
